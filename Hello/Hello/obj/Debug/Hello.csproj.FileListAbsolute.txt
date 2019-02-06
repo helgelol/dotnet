@@ -1,0 +1,7 @@
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\hejo\Documents\GitHub\development\Hello\Hello\obj\Debug\Hello.pdb
